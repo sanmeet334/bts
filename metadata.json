@@ -1,0 +1,6 @@
+{
+  "name": "TRAFFIX — Intelligent Traffic Management & Route Optimization",
+  "description": "Full-stack smart-city traffic operations platform with multi-factor Dijkstra/A* routing, intelligent incident duplicate detection, 15-30 minute congestion prediction, network blockage simulation, adaptive signal optimization, and emergency priority corridors.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
